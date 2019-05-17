@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:weightSum="6"
+    tools:context=".CategoriesActivity">
+
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="@font/amaranth"
+        android:onClick="CategorySportList"
+        android:text="Sports" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="@font/amaranth"
+        android:onClick="CategoryTechnologyList"
+        android:text="Technology" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="@font/amaranth"
+        android:onClick="CategoryWearsList"
+        android:text="Wears" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="@font/amaranth"
+        android:onClick="CategoryCrockeryList"
+        android:text="Crockery" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="@font/amaranth"
+        android:onClick="CategoryHouseholdList"
+        android:text="Household" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_weight="1"
+        android:fontFamily="@font/amaranth"
+        android:onClick="CategoryAccessoriesList"
+        android:text="Accessories" />
+
+
+
+</LinearLayout>

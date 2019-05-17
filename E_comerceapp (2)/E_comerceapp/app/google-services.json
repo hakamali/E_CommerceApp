@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "583419671279",
+    "firebase_url": "https://ecomerceapp-3b353.firebaseio.com",
+    "project_id": "ecomerceapp-3b353",
+    "storage_bucket": "ecomerceapp-3b353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583419671279:android:c4dcb6c853318537",
+        "android_client_info": {
+          "package_name": "com.example.hakim.e_comerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583419671279-sjg3a1i2st2mslka9ini959l7coctbos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hakim.e_comerceapp",
+            "certificate_hash": "018c311ae0bca6e1b45e9f5a94795ef8020d6a54"
+          }
+        },
+        {
+          "client_id": "583419671279-fs7othbngnamptd5kjoi7085vb2n3of3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9EBPVe0RbLFa7F7TwBYuZfBzGsD2z7Ic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583419671279-fs7othbngnamptd5kjoi7085vb2n3of3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
